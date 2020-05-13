@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6211" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6204"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Rating_View">
+            <connections>
+                <outlet property="starButton1" destination="153" id="name-outlet-153"/>
+                <outlet property="rootView" destination="1" id="name-outlet-1"/>
+                <outlet property="starButton2" destination="612" id="name-outlet-612"/>
+                <outlet property="starButton3" destination="613" id="name-outlet-613"/>
+                <outlet property="starButton4" destination="2208" id="name-outlet-2208"/>
+                <outlet property="starButton5" destination="2536" id="name-outlet-2536"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleAspectFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="153" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" adjustsImageWhenHighlighted="NO" selected="YES" highlighted="YES">
+                    <rect key="frame" x="0.0" y="0.0" width="65" height="65"/>
+                    <state key="normal" image="emptyStar"/>
+                    <state key="highlighted" image="highlightedStar"/>
+                    <state key="selected" image="filledStar"/>
+                    <state key="disabled" image="emptyStar"/>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="612" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" adjustsImageWhenHighlighted="NO" selected="YES" highlighted="YES">
+                    <rect key="frame" x="70" y="0.0" width="65" height="65"/>
+                    <state key="normal" image="emptyStar"/>
+                    <state key="highlighted" image="highlightedStar"/>
+                    <state key="selected" image="filledStar"/>
+                    <state key="disabled" image="emptyStar"/>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="613" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" adjustsImageWhenHighlighted="NO" selected="YES" highlighted="YES">
+                    <rect key="frame" x="139" y="0.0" width="65" height="65"/>
+                    <state key="normal" image="emptyStar"/>
+                    <state key="highlighted" image="highlightedStar"/>
+                    <state key="selected" image="filledStar"/>
+                    <state key="disabled" image="emptyStar"/>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="2208" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" adjustsImageWhenHighlighted="NO" selected="YES" highlighted="YES">
+                    <rect key="frame" x="208" y="0.0" width="65" height="65"/>
+                    <state key="normal" image="emptyStar"/>
+                    <state key="highlighted" image="highlightedStar"/>
+                    <state key="selected" image="filledStar"/>
+                    <state key="disabled" image="emptyStar"/>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="2536" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" adjustsImageWhenHighlighted="NO" selected="YES" highlighted="YES">
+                    <rect key="frame" x="274" y="0.0" width="65" height="65"/>
+                    <state key="normal" image="emptyStar"/>
+                    <state key="highlighted" image="highlightedStar"/>
+                    <state key="selected" image="filledStar"/>
+                    <state key="disabled" image="emptyStar"/>
+                </button>
+            </subviews>
+            <point key="canvasLocation" x="1" y="128"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="emptyStar" width="75" height="75"/>
+        <image name="filledStar" width="75" height="75"/>
+        <image name="highlightedStar" width="75" height="75"/>
+    </resources>
+</document>
