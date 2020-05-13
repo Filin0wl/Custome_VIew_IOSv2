@@ -37,6 +37,26 @@ namespace Custome_View_IOS
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton starButton5 { get; set; }
 
+        [Action ("StarButton1_TouchUpInside:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void StarButton1_TouchUpInside (UIKit.UIButton sender);
+
+        [Action ("StarButton2_TouchUpInside:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void StarButton2_TouchUpInside (UIKit.UIButton sender);
+
+        [Action ("StarButton3_TouchUpInside:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void StarButton3_TouchUpInside (UIKit.UIButton sender);
+
+        [Action ("StarButton4_TouchUpInside:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void StarButton4_TouchUpInside (UIKit.UIButton sender);
+
+        [Action ("StarButton5_TouchUpInside:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void StarButton5_TouchUpInside (UIKit.UIButton sender);
+
         void ReleaseDesignerOutlets ()
         {
             if (rootView != null) {

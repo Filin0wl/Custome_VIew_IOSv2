@@ -26,6 +26,9 @@
                     <state key="highlighted" image="highlightedStar"/>
                     <state key="selected" image="filledStar"/>
                     <state key="disabled" image="emptyStar"/>
+                    <connections>
+                        <action selector="StarButton1_TouchUpInside:" destination="-1" id="3983" eventType="touchUpInside"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="612" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" adjustsImageWhenHighlighted="NO" selected="YES" highlighted="YES">
                     <rect key="frame" x="70" y="0.0" width="65" height="65"/>
@@ -33,6 +36,9 @@
                     <state key="highlighted" image="highlightedStar"/>
                     <state key="selected" image="filledStar"/>
                     <state key="disabled" image="emptyStar"/>
+                    <connections>
+                        <action selector="StarButton2_TouchUpInside:" destination="-1" id="3992" eventType="touchUpInside"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="613" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" adjustsImageWhenHighlighted="NO" selected="YES" highlighted="YES">
                     <rect key="frame" x="139" y="0.0" width="65" height="65"/>
@@ -40,6 +46,9 @@
                     <state key="highlighted" image="highlightedStar"/>
                     <state key="selected" image="filledStar"/>
                     <state key="disabled" image="emptyStar"/>
+                    <connections>
+                        <action selector="StarButton3_TouchUpInside:" destination="-1" id="4001" eventType="touchUpInside"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="2208" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" adjustsImageWhenHighlighted="NO" selected="YES" highlighted="YES">
                     <rect key="frame" x="208" y="0.0" width="65" height="65"/>
@@ -47,6 +56,9 @@
                     <state key="highlighted" image="highlightedStar"/>
                     <state key="selected" image="filledStar"/>
                     <state key="disabled" image="emptyStar"/>
+                    <connections>
+                        <action selector="StarButton4_TouchUpInside:" destination="-1" id="4010" eventType="touchUpInside"/>
+                    </connections>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="2536" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" adjustsImageWhenHighlighted="NO" selected="YES" highlighted="YES">
                     <rect key="frame" x="274" y="0.0" width="65" height="65"/>
@@ -54,6 +66,9 @@
                     <state key="highlighted" image="highlightedStar"/>
                     <state key="selected" image="filledStar"/>
                     <state key="disabled" image="emptyStar"/>
+                    <connections>
+                        <action selector="StarButton5_TouchUpInside:" destination="-1" id="4012" eventType="touchUpInside"/>
+                    </connections>
                 </button>
             </subviews>
             <point key="canvasLocation" x="1" y="128"/>

@@ -25,7 +25,6 @@ C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimula
 C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
 C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
 C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\optimized\
-C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\Custome_View_IOS.csprojAssemblyReference.cache
 C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\Custome_View_IOS.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\Custome_View_IOS.csproj.CopyComplete
 C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\Custome_View_IOS.exe
@@ -36,3 +35,4 @@ C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimula
 C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Custome_View_IOS.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
 C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Info.plist.NoneOutput.stamp
 C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Entitlements.plist.NoneOutput.stamp
+C:\Users\User\Documents\Nasya\Custome_View_IOS\Custome_View_IOS\obj\iPhoneSimulator\Debug\Custome_View_IOS.csprojAssemblyReference.cache
