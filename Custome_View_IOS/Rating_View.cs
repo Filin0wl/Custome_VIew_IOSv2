@@ -55,7 +55,8 @@ namespace Custome_View_IOS
             foreach (UIButton item in btnList)
             {
                 item.Selected = false;
-                item.Highlighted = false;            }
+                item.Highlighted = false;      
+            }
             for (int i = 0; i < Rating; i++)
             {
                 btnList[i].Selected = true;
